@@ -25,7 +25,7 @@ namespace NeighBot
                 .AppendLine("...")
                 .AppendLine("Как формируется рейтинг?")
                 .AppendLine("...")
-                .AppendLine("На что он влияет?")
+                .AppendLine("На что влияет рейтинг?")
                 .AppendLine("...")
                 .AppendLine("Что считается добрым делом?")
                 .AppendLine("...")
